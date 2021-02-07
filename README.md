@@ -2,11 +2,11 @@
 
 ## Desktop
 
-![Screenshot](https://github.com/oguz3/Weather_app/tree/main/screenshot/spotify_desktop.gif)
+![Screenshot](https://raw.githubusercontent.com/oguz3/Weather_app/main/screenshot/spotify_desktop.gif)
 
 ## Mobile
 
-![Screenshot](https://github.com/oguz3/Weather_app/tree/main/screenshot/spotify_mobile.gif)
+![Screenshot](https://raw.githubusercontent.com/oguz3/Weather_app/main/screenshot/spotify_mobile.gif)
 
 
 ### Live demo
